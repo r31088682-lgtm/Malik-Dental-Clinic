@@ -1,0 +1,6 @@
+{
+  "name": "Malik Dental Clinic",
+  "description": "Professional dental care clinic located in Ghaziabad. We provide quality treatments including painless RCT at affordable prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
